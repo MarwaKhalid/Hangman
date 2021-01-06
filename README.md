@@ -1,5 +1,5 @@
 # Hangman
 
-Created a hangman game for self-learning C++ purposes.
+Created a hangman game for self-learning C++ purpose.
 
 Hope you enjoy!
